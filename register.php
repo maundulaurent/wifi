@@ -2,7 +2,7 @@
 // Include the MikroTik API
 require('routeros_api.class.php');
 
-$host = '102.0.1.156';  // Your public IP address
+$host = '192.168.88.1';  // Your public IP address
 $username = 'MuemaSW';
 $password = 'init';
 
